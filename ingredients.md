@@ -1,3 +1,4 @@
+Let's begin!
 Tthe list of the ingredients:
 
 2kg topside of beef
@@ -16,3 +17,4 @@ peeled and halved lengthways
 ( I used a shiraz blend)
 500ml fresh beef stock
 2 tsp redcurrant jelly
+Enjoy my recipe!
