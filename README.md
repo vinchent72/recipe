@@ -11,3 +11,7 @@ The **recipe** of *roast beef*.
 
 - Unordered item 1
 - Unordered item 2
+
+# Image
+
+![The roost beef recipe](./recipe.jpg)
